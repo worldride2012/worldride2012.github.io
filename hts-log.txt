@@ -1,0 +1,106 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Mar 2020 15:08:53 at http://worldride.extreme.ee/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://worldride.extreme.ee/ -O1 "C:\Users\josh\Desktop\httrack\worldride" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:09:00	Warning: 	Note: due to worldride.extreme.ee remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /wp-includes/ (see in the options to disable this)
+15:12:19	Warning: 	Retry after error -4 (Incorrect length (527299 Bytes, 839947 expected)) at link worldride.extreme.ee/pics/photo.jpg (from worldride.extreme.ee/)
+15:13:27	Warning: 	Retry after error -4 (Incorrect length (1848268 Bytes, 2919729 expected)) at link worldride.extreme.ee/pics/IMG_5008.jpg (from worldride.extreme.ee/)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_close.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_nav_left.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_nav_right.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_title_over.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_title_left.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_title_main.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_title_right.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_loading.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_shadow_n.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_shadow_ne.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_shadow_e.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_shadow_se.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_shadow_s.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_shadow_sw.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_shadow_w.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/fancybox/fancy_shadow_nw.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/fancybox/jquery.fancybox-1.3.4.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/flex-slider/theme/bg_direction_nav.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/flex-slider/flexslider.css?ver=1)
+15:15:01	Error: 	"Not found" (404) at link worldride.extreme.ee/wp-content/themes/ascetica/js/flex-slider/theme/bg_control_nav.png (from worldride.extreme.ee/wp-content/themes/ascetica/js/flex-slider/flexslider.css?ver=1)
+15:15:13	Warning: 	Retry after error -4 (Incorrect length (2639047 Bytes, 2919729 expected)) at link worldride.extreme.ee/pics/IMG_5008.jpg (from worldride.extreme.ee/)
+15:15:15	Warning: 	Moved Permanently for worldride.extreme.ee/page/1/
+15:15:15	Warning: 	File has moved from worldride.extreme.ee/page/1/ to http://worldride.extreme.ee/
+15:16:27	Error: 	"Not found" (404) at link worldride.extreme.ee/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from s.gravatar.com/js/gprofiles.js?aa&ver=3.3.1)
+15:16:27	Warning: 	Moved Permanently for worldride.extreme.ee/author/juss/page/1/
+15:16:27	Warning: 	File has moved from worldride.extreme.ee/author/juss/page/1/ to http://worldride.extreme.ee/author/juss/
+15:16:27	Warning: 	Moved Permanently for worldride.extreme.ee/category/sissekanded/page/1/
+15:16:27	Warning: 	File has moved from worldride.extreme.ee/category/sissekanded/page/1/ to http://worldride.extreme.ee/category/sissekanded/
+15:16:31	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=41/feed/
+15:16:31	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=41/feed/ to http://worldride.extreme.ee/?attachment_id=41
+15:16:48	Warning: 	Retry after error -4 (Incorrect length (527262 Bytes, 632576 expected)) at link worldride.extreme.ee/pics/Screen-Shot-2012-03-21-at-11.49.41-AM.png (from worldride.extreme.ee/?attachment_id=41)
+15:19:29	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=42/feed/
+15:19:29	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=42/feed/ to http://worldride.extreme.ee/?attachment_id=42
+15:19:29	Warning: 	Retry after error -4 (Incorrect length (527859 Bytes, 702793 expected)) at link worldride.extreme.ee/pics/Screen-Shot-2012-03-21-at-11.49.51-AM.png (from worldride.extreme.ee/?attachment_id=42)
+15:19:29	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=46/feed/
+15:19:29	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=46/feed/ to http://worldride.extreme.ee/?attachment_id=46
+15:19:29	Warning: 	Moved Permanently for worldride.extreme.ee/2012/05/page/1/
+15:19:29	Warning: 	File has moved from worldride.extreme.ee/2012/05/page/1/ to http://worldride.extreme.ee/2012/05/
+15:19:29	Warning: 	Moved Permanently for worldride.extreme.ee/2012/04/page/1/
+15:19:29	Warning: 	File has moved from worldride.extreme.ee/2012/04/page/1/ to http://worldride.extreme.ee/2012/04/
+15:19:29	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=6/feed/
+15:19:29	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=6/feed/ to http://worldride.extreme.ee/?attachment_id=6
+15:19:29	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=9/feed/
+15:19:29	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=9/feed/ to http://worldride.extreme.ee/?attachment_id=9
+15:19:29	Warning: 	Retry after error -4 (Incorrect length (264138 Bytes, 415614 expected)) at link worldride.extreme.ee/pics/20120327-150458.jpg (from worldride.extreme.ee/?attachment_id=9)
+15:19:40	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=36/feed/
+15:19:40	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=36/feed/ to http://worldride.extreme.ee/?attachment_id=36
+15:19:40	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=43/feed/
+15:19:40	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=43/feed/ to http://worldride.extreme.ee/?attachment_id=43
+15:19:40	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=71/feed/
+15:19:40	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=71/feed/ to http://worldride.extreme.ee/?attachment_id=71
+15:19:40	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=84/feed/
+15:19:40	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=84/feed/ to http://worldride.extreme.ee/?attachment_id=84
+15:19:40	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=85/feed/
+15:19:40	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=85/feed/ to http://worldride.extreme.ee/?attachment_id=85
+15:19:40	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=86/feed/
+15:19:40	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=86/feed/ to http://worldride.extreme.ee/?attachment_id=86
+15:19:40	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=88/feed/
+15:19:40	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=88/feed/ to http://worldride.extreme.ee/?attachment_id=88
+15:19:40	Warning: 	Retry after error -4 (Incorrect length (526409 Bytes, 683156 expected)) at link worldride.extreme.ee/pics/tsiklikastile1.jpg (from worldride.extreme.ee/?attachment_id=88)
+15:19:54	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=94/feed/
+15:19:54	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=94/feed/ to http://worldride.extreme.ee/?attachment_id=94
+15:19:54	Warning: 	Retry after error -4 (Incorrect length (527426 Bytes, 609821 expected)) at link worldride.extreme.ee/pics/weebipais.jpg (from worldride.extreme.ee/?attachment_id=94)
+15:19:57	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=95/feed/
+15:19:57	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=95/feed/ to http://worldride.extreme.ee/?attachment_id=95
+15:19:57	Warning: 	Retry after error -4 (Incorrect length (528058 Bytes, 638029 expected)) at link worldride.extreme.ee/pics/weebipais1.jpg (from worldride.extreme.ee/?attachment_id=95)
+15:20:05	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=99/feed/
+15:20:05	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=99/feed/ to http://worldride.extreme.ee/?attachment_id=99
+15:20:05	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=104/feed/
+15:20:05	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=104/feed/ to http://worldride.extreme.ee/?attachment_id=104
+15:20:05	Warning: 	Retry after error -4 (Incorrect length (527238 Bytes, 648161 expected)) at link worldride.extreme.ee/pics/weebipais2.jpg (from worldride.extreme.ee/?attachment_id=104)
+15:20:08	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=105/feed/
+15:20:08	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=105/feed/ to http://worldride.extreme.ee/?attachment_id=105
+15:20:08	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=106/feed/
+15:20:08	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=106/feed/ to http://worldride.extreme.ee/?attachment_id=106
+15:20:20	Warning: 	Retry after error -4 (Incorrect length (527542 Bytes, 684863 expected)) at link worldride.extreme.ee/pics/tyretrack.jpg (from worldride.extreme.ee/?attachment_id=106)
+15:20:20	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=107/feed/
+15:20:20	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=107/feed/ to http://worldride.extreme.ee/?attachment_id=107
+15:20:20	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=110/feed/
+15:20:20	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=110/feed/ to http://worldride.extreme.ee/?attachment_id=110
+15:20:20	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=129/feed/
+15:20:20	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=129/feed/ to http://worldride.extreme.ee/?attachment_id=129
+15:20:20	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=236/feed/
+15:20:20	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=236/feed/ to http://worldride.extreme.ee/?attachment_id=236
+15:20:20	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=242/feed/
+15:20:20	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=242/feed/ to http://worldride.extreme.ee/?attachment_id=242
+15:20:20	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=243/feed/
+15:20:20	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=243/feed/ to http://worldride.extreme.ee/?attachment_id=243
+15:20:20	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=263/feed/
+15:20:20	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=263/feed/ to http://worldride.extreme.ee/?attachment_id=263
+15:20:20	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=264/feed/
+15:20:20	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=264/feed/ to http://worldride.extreme.ee/?attachment_id=264
+15:20:20	Warning: 	Moved Permanently for worldride.extreme.ee/?attachment_id=516/feed/
+15:20:20	Warning: 	File has moved from worldride.extreme.ee/?attachment_id=516/feed/ to http://worldride.extreme.ee/?attachment_id=516
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 33 seconds : 350 links scanned, 287 files written (19170521 bytes overall) [17103786 bytes received at 24680 bytes/sec], 3352902 bytes transferred using HTTP compression in 166 files, ratio 28%, 3.1 requests per connection
+(19 errors, 76 warnings, 0 messages)
